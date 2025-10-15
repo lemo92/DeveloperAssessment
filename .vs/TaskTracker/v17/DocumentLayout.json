@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.worker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|solutionrelative:tasktracker.worker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|solutionrelative:tasktracker.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|solutionrelative:tasktracker.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.worker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|solutionrelative:tasktracker.worker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.worker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|solutionrelative:tasktracker.worker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.worker\\tasktracker.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F8EA7ED-EABA-47BD-A64A-E1B7BCAE86B6}|TaskTracker.Worker\\TaskTracker.Worker.csproj|solutionrelative:tasktracker.worker\\tasktracker.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF34155-2B8B-4E17-95C9-FF60FD6565A5}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.infrastructure\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF34155-2B8B-4E17-95C9-FF60FD6565A5}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF34155-2B8B-4E17-95C9-FF60FD6565A5}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF34155-2B8B-4E17-95C9-FF60FD6565A5}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF34155-2B8B-4E17-95C9-FF60FD6565A5}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF34155-2B8B-4E17-95C9-FF60FD6565A5}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF34155-2B8B-4E17-95C9-FF60FD6565A5}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.infrastructure\\tasktracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CF34155-2B8B-4E17-95C9-FF60FD6565A5}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\tasktracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.domain\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.domain\\tasktracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C70931C9-92C7-4296-BED1-C2DD1A75D92D}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\tasktracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\tasktracker.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\tasktracker.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|c:\\users\\lemo\\desktop\\new folder (6)\\tasktracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5995284D-A996-45D4-8932-45968072AD31}|TaskTracker.Api\\TaskTracker.Api.csproj|solutionrelative:tasktracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df4c83cd-618b-31e0-bb92-279d8df7cea0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Worker\\Program.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\Program.cs",
+              "RelativeToolTip": "TaskTracker.Worker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:39:54.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\Dockerfile",
+              "RelativeDocumentMoniker": "TaskTracker.Worker\\Dockerfile",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\Dockerfile",
+              "RelativeToolTip": "TaskTracker.Worker\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T07:39:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskTracker.Worker\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\appsettings.Development.json",
+              "RelativeToolTip": "TaskTracker.Worker\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T07:39:45.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskTracker.Worker\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskTracker.Worker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T07:39:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskTracker.Worker",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\TaskTracker.Worker.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.Worker\\TaskTracker.Worker.csproj",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\TaskTracker.Worker.csproj",
+              "RelativeToolTip": "TaskTracker.Worker\\TaskTracker.Worker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T07:39:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:38:36.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskTracker.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T07:38:15.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\Class1.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:38:10.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:38:02.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskTracker.Domain",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\TaskTracker.Domain.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\TaskTracker.Domain.csproj",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\TaskTracker.Domain.csproj",
+              "RelativeToolTip": "TaskTracker.Domain\\TaskTracker.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T07:37:53.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Services\\TokenService.cs",
+              "RelativeToolTip": "TaskTracker.Api\\Services\\TokenService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:36:58.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "TaskTracker.Api\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:36:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskTracker.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T07:35:41.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Dockerfile",
+              "RelativeToolTip": "TaskTracker.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-14T20:45:04.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\Worker.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Worker\\Worker.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Worker\\Worker.cs",
+              "RelativeToolTip": "TaskTracker.Worker\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:21:22.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "TaskTracker.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:21:04.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:47:54.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:42:14.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\appsettings.json",
+              "RelativeToolTip": "TaskTracker.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T19:34:52.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Program.cs",
+              "RelativeToolTip": "TaskTracker.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:34:10.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\Entities\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Entities\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Domain\\Entities\\TaskStatus.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Entities\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:11:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskTracker.Api.http",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\TaskTracker.Api.http",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\TaskTracker.Api.http",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\TaskTracker.Api.http",
+              "RelativeToolTip": "TaskTracker.Api\\TaskTracker.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-14T19:10:52.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskTracker.Api\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:10:26.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskTracker.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:07:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Infrastructure\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Lemo\\Desktop\\New folder (6)\\TaskTracker.Infrastructure\\DbInitializer.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\DbInitializer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwDsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:06:51.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
