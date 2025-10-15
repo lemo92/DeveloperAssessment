@@ -57,22 +57,5 @@ Use `Authorization: Bearer <accessToken>` for `/api/tasks` endpoints.
    - Docker: `docker compose logs -f worker`
    - Local: observe console logs of the Worker process
 
-## Core design decisions
-- Separate projects for `Domain`, `Infrastructure`, `Api`, and `Worker` for clear boundaries.
-- EF Core with SQL Server; migrations included in `TaskTracker.Infrastructure`. Startup applies migrations and seeds via `DbInitializer.MigrateAndSeed`.
-- JWT-based authentication with access token; refresh token stored on the user record.
-- Background Worker as a hosted service scans tasks periodically for overdue status.
 
-## Trade-offs
-- Worker interval is hourly for simplicity; shorter intervals would cost more resources.
-- Minimal auth flows (basic refresh token record) to keep scope tight; no rotation/blacklist.
-- No pagination on `GET /api/tasks` in this iteration to focus on core flows.
-- Basic error handling middleware; detailed problem details could be added.
-
-## What to improve with more time
-- Make the worker cadence configurable and add on-demand trigger endpoint for demos.
-- Add pagination, sorting, and indexing for larger datasets.
-- Harden authentication (refresh rotation, revocation, expiry policies).
-- Introduce CQRS/mediator for larger-scale features and testing seams.
-- Add Swagger UI for interactive docs in Development.
 
